@@ -1,0 +1,14 @@
+/home/nikolay/GettingStarted/bin/Debug/net8.0/GettingStarted
+/home/nikolay/GettingStarted/bin/Debug/net8.0/GettingStarted.deps.json
+/home/nikolay/GettingStarted/bin/Debug/net8.0/GettingStarted.runtimeconfig.json
+/home/nikolay/GettingStarted/bin/Debug/net8.0/GettingStarted.dll
+/home/nikolay/GettingStarted/bin/Debug/net8.0/GettingStarted.pdb
+/home/nikolay/GettingStarted/obj/Debug/net8.0/GettingStarted.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikolay/GettingStarted/obj/Debug/net8.0/GettingStarted.AssemblyInfoInputs.cache
+/home/nikolay/GettingStarted/obj/Debug/net8.0/GettingStarted.AssemblyInfo.cs
+/home/nikolay/GettingStarted/obj/Debug/net8.0/GettingStarted.csproj.CoreCompileInputs.cache
+/home/nikolay/GettingStarted/obj/Debug/net8.0/GettingStarted.dll
+/home/nikolay/GettingStarted/obj/Debug/net8.0/refint/GettingStarted.dll
+/home/nikolay/GettingStarted/obj/Debug/net8.0/GettingStarted.pdb
+/home/nikolay/GettingStarted/obj/Debug/net8.0/GettingStarted.genruntimeconfig.cache
+/home/nikolay/GettingStarted/obj/Debug/net8.0/ref/GettingStarted.dll
