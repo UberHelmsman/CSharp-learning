@@ -12,3 +12,4 @@
 /home/nikolay/GettingStarted/obj/Debug/net8.0/GettingStarted.pdb
 /home/nikolay/GettingStarted/obj/Debug/net8.0/GettingStarted.genruntimeconfig.cache
 /home/nikolay/GettingStarted/obj/Debug/net8.0/ref/GettingStarted.dll
+/home/nikolay/GettingStarted/obj/Debug/net8.0/GettingStarted.sourcelink.json

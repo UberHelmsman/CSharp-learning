@@ -1,4 +1,4 @@
-﻿var symbols = new Dictionary<char,int>(){
+var symbols = new Dictionary<char,int>(){
     {'I', 1},
     {'V', 5},
     {'X', 10},
