@@ -1,3 +1,4 @@
+/*
 var symbols = new Dictionary<char, int>(){
     {'I', 1},
     {'V', 5},
@@ -7,7 +8,6 @@ var symbols = new Dictionary<char, int>(){
     {'D', 500},
     {'M', 1000}
 };
-
 
 
 while (true)
@@ -60,3 +60,4 @@ while (true)
 
     System.Console.WriteLine($"Результат в арабских цифрах: {res}");
 }
+*/
