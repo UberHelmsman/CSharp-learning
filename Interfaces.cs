@@ -18,6 +18,7 @@ public class BaseList : IBaseCollection
     public void Add(object obj)
     {
         items[count] = obj;
+        System.Console.WriteLine(obj);
         count++;
     }
 
@@ -28,4 +29,10 @@ public class BaseList : IBaseCollection
     }
 }
 
-    
+public static class BaseCollectionExt{
+    public static void AddRange(this IBaseCollection collection, IEnumerable<object> objects){
+        foreach(var item in objects){
+            collection.Add(item);
+        }
+    }
+}
