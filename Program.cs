@@ -1,4 +1,4 @@
 ﻿using GettingStarted;
 
-ModelXTerminal terminal = new ModelXTerminal("123");
-terminal.Connect();
+IBaseCollection MyCollection = new BaseList(4);
+MyCollection.Add(1); 
